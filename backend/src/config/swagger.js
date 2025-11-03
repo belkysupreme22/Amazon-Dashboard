@@ -16,7 +16,12 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000',
+        url: 'http://localhost:5000', // 🧑‍💻 Local development
+        description: 'Local server',
+      },
+      {
+        url: 'https://amazon-dashboard-hs0b.onrender.com', 
+        description: 'Production server',
       },
     ],
     components: {

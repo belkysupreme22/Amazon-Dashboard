@@ -8,7 +8,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'https://amazon-dashboard-hs0b.onrender.com',
         changeOrigin: true,
       },
     },

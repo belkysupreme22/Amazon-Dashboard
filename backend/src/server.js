@@ -22,7 +22,7 @@ app.use((req, res, next) => {
 
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
-});
+}); 
 
 app.use('/api/products', productRoutes);
 app.use('/api/scrape', scrapeRoutes);
