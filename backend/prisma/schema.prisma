@@ -1,0 +1,30 @@
+// Prisma schema for Amazon Product Database
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Product {
+  id            String   @id @default(uuid())
+  title         String   @db.Text
+  price         Float
+  currency      String   @default("USD")
+  rating        Float?
+  reviewsCount  Int?
+  imageUrl      String?
+  productUrl    String   @db.Text
+  scrapedAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  priceHistory  Json?    // Array of {price, date} objects
+  category      String?
+
+  @@index([price])
+  @@index([rating])
+  @@index([scrapedAt])
+  @@map("products")
+}

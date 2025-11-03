@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Apple AirPods Pro (2nd Generation) Wireless Earbuds with Noise Cancellation",
+    "price": 249.99,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviewsCount": 15234,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B09JQMJSXY",
+    "category": "Electronics",
+    "priceHistory": [
+      {"price": 249.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 249.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 249.99, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Samsung 49-Inch Odyssey G9 Gaming Monitor - QHD 240Hz",
+    "price": 999.99,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviewsCount": 8921,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81XhN7uQpKL._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B08RKJJ95N",
+    "category": "Electronics",
+    "priceHistory": [
+      {"price": 999.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 1099.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 1049.99, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Amazon Echo Dot (5th Gen) - Smart Speaker with Alexa",
+    "price": 49.99,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviewsCount": 45278,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B09B8V1LZ3",
+    "category": "Electronics",
+    "priceHistory": [
+      {"price": 49.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 49.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 59.99, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Logitech MX Master 3 Advanced Wireless Mouse",
+    "price": 99.99,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviewsCount": 23456,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/614w3LuZTYL._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B07S395RWD",
+    "category": "Computers",
+    "priceHistory": [
+      {"price": 99.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 99.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 99.99, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Dyson V15 Detect Cordless Vacuum Cleaner",
+    "price": 749.99,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviewsCount": 12345,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71w0KTIj6bL._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B08XZVN4XL",
+    "category": "Home & Kitchen",
+    "priceHistory": [
+      {"price": 749.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 799.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 749.99, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "price": 399.99,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviewsCount": 18765,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B09XS7JWHH",
+    "category": "Electronics",
+    "priceHistory": [
+      {"price": 399.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 399.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 428.00, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "price": 89.99,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviewsCount": 98765,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81fVee8e8QL._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B00FLYWNYQ",
+    "category": "Home & Kitchen",
+    "priceHistory": [
+      {"price": 89.99, "date": "2024-01-15T10:00:00Z"},
+      {"price": 94.99, "date": "2024-01-10T10:00:00Z"},
+      {"price": 89.99, "date": "2024-01-05T10:00:00Z"}
+    ]
+  },
+  {
+    "title": "Raspberry Pi 4 Model B - 8GB RAM",
+    "price": 75.00,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviewsCount": 34567,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91BZ4nEZDOL._AC_SL1500_.jpg",
+    "productUrl": "https://www.amazon.com/dp/B0899VXM8F",
+    "category": "Computers",
+    "priceHistory": [
+      {"price": 75.00, "date": "2024-01-15T10:00:00Z"},
+      {"price": 75.00, "date": "2024-01-10T10:00:00Z"},
+      {"price": 80.00, "date": "2024-01-05T10:00:00Z"}
+    ]
+  }
+]
