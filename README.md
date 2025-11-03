@@ -104,7 +104,7 @@ A full-stack web application for tracking Amazon products, prices, ratings, and 
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone <https://github.com/belkysupreme22/Amazon-Dashboard>
 cd amazon-dashboard
 
 # Start all services
@@ -118,7 +118,7 @@ open http://localhost:5173
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone <https://github.com/belkysupreme22/Amazon-Dashboard>
 cd amazon-dashboard
 
 # Backend setup
@@ -148,7 +148,7 @@ open http://localhost:5173
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/belkysupreme22/Amazon-Dashboard>
 cd amazon-dashboard
 ```
 
