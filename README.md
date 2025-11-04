@@ -5,6 +5,9 @@ A full-stack web application for tracking Amazon products, prices, ratings, and 
 ![Tech Stack](https://img.shields.io/badge/React-18.2-blue) ![Node](https://img.shields.io/badge/Node-20-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue) ![Prisma](https://img.shields.io/badge/Prisma-5.7-black)
 
 ---
+## 🌐 Live Demo
+[Frontend (Vercel)](https://amazon-dashboard-green.vercel.app/)
+[Backend API (Swagger)](https://amazon-dashboard-hs0b.onrender.com/api)
 
 ## 📋 Table of Contents
 
